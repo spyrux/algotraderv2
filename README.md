@@ -2,8 +2,9 @@
 
 Implementing trading strategies in Python.
 
-trader2.py:
--Pulls yfinance data using their API.
+**trader2.py:**
+
+-Pulls yfinance dsata using their API.
 
 -Utilizes a Simple Moving Average trading strategy to determine buy and sell points
 
@@ -15,6 +16,7 @@ trader2.py:
 
 
 Future plans:
+
 -Use the strategies on real-time data, and trade using a paper account.
 
 -Implement other strategies.
