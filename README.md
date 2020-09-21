@@ -15,7 +15,7 @@ Implementing trading strategies in Python.
 -Returns a plot of the performance of each strategy.
 
 
-Future plans:
+**Future plans:**
 
 -Use the strategies on real-time data, and trade using a paper account.
 
